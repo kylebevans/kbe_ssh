@@ -1,0 +1,7 @@
+name 'kbe_ssh'
+maintainer 'Kyle Evans'
+maintainer_email 'kylebe@gmail.com'
+license 'all_rights'
+description 'Installs/Configures kbe_ssh'
+long_description 'Installs/Configures kbe_ssh'
+version '0.1.0'
